@@ -3,6 +3,7 @@
 usage:
 
 python parse.py 
+
 Count the total number of HTTP requests recorded by this access logfile
 [(254322,)]
  
