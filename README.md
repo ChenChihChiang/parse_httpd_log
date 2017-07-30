@@ -1,6 +1,8 @@
 # parse_httpd_log
 
-usage:
+Python version : 3.6.0
+
+Usage:
 
 python parse.py 
 
